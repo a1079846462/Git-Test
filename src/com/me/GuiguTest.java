@@ -7,5 +7,4 @@ public class GuiguTest {
         System.out.println("Hello Git3");
         System.out.println("Hello Git4");
     }
-    }
 }
